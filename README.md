@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rawan Abdullah
+- 👀 I’m interested in Data Science, Machine Learning, and Information Systems.
+- 🌱 Instructor, and Knowledge Seeker.
